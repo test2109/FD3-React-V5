@@ -1,6 +1,7 @@
 ﻿div.PSourceLine
 {
   color: red;
+  background-color: #fff;
 }
 
 div.PSourceRunning
